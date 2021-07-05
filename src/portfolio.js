@@ -391,7 +391,7 @@ const contactInfo = {
   subtitle:
     "Discuss a project or just want to say hi? My Inbox is open for all.",
   number: "+91 7305025313",
-  email_address: "algopikrishnan20offivial@gmail.com"
+  email_address: "algopikrishnan20official@gmail.com"
 };
 
 const twitterDetails = {
